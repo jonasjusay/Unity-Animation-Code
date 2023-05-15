@@ -1,5 +1,7 @@
 # Unity-Animation-Code
 This repo code for three unique animation states in Unity.
+
+
 public class animationStateController : MonoBehaviour
 {
     .private Vector3 moveDirection = Vector3.zero
